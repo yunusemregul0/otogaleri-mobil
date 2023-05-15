@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">otogaleri</string>
+    <string-array name="Markalar">
+        <item>Toyota</item>
+        <item>Honda</item>
+        <item>Mazda</item>
+        <item>Subaru</item>
+        <item>Nissan</item>
+
+    </string-array>
+    <string-array name="Yakit">
+        <item>Motorin</item>
+        <item>Benzin</item>
+        <item>LPG</item>
+    </string-array>
+
+    <string-array name="Vites">
+        <item>Otomatik</item>
+        <item>Manuel</item>
+    </string-array>
+
+    <string-array name="Hasar">
+        <item>Boyalı</item>
+        <item>Değişenli</item>
+        <item>Hatasız</item>
+    </string-array>
+</resources>

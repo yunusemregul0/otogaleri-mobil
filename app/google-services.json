@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "718408718222",
+    "project_id": "otogaleri-7c35c",
+    "storage_bucket": "otogaleri-7c35c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718408718222:android:46b6acc3d1347db67076df",
+        "android_client_info": {
+          "package_name": "com.example.otogaleri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718408718222-rdnp3aa37mb6582t81akmh66flnso695.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUAF6xbUDKIkF_7Ecnt7ic48SYw5O8grQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718408718222-rdnp3aa37mb6582t81akmh66flnso695.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
